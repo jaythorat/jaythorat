@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python  
 - 📫 Reach me via : j.thorat10@gmail.com
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jthorat10)](https://github.com/jaythorat/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaythorat)](https://github.com/jaythorat/github-readme-stats)
 
 
 
