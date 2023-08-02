@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jthorat10
+- 👋 Hi, I’m @jaythorat
 - 👀 I’m interested in web developement,coding,gaming,stock trading and investing...
 - 🌱 I’m currently learning python  
 - 📫 Reach me via : j.thorat10@gmail.com
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jthorat10)](https://github.com/jthorat10/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jthorat10)](https://github.com/jaythorat/github-readme-stats)
 
 
 
