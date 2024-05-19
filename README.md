@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaythorat&label=Profile%20views&color=0e75b6&style=flat" alt="jaythorat" /> </p>
 
-- 🌱 I’m currently learning **Django,ReactJs**
+- 🌱 I’m currently learning **Django REST API,ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.jaythorat.in](https://portfolio.jaythorat.in)
 
