@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.jaythorat.in](https://portfolio.jaythorat.in)
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, REST APIs, Database Design**
 
 - 📫 How to reach me **j.thorat10@gmail.com**
 
