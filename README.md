@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, Python, REST APIs, Database Design**
 
-- 📫 How to reach me **j.thorat10@gmail.com**
+- 📫 How to reach me **dev.jaythorat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
